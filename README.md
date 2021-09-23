@@ -15,3 +15,5 @@ See main.py for full code
 Secure code written by https://github.com/t3dium (t3dium - Faraz Ahary)
 
 Collaberators - Thomas Kerby and Faraz Ahary
+
+V1.1 will come without antivirus issues
