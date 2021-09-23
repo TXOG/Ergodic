@@ -14,7 +14,7 @@ Currently in beta
 Old icon: https://github.com/TXOG/Ergodic/blob/main/Sort-Ascending-256.ico
 
 
-##Antivirus
+## Antivirus
 
 https://www.virustotal.com/gui/home/upload
 
