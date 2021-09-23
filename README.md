@@ -1,8 +1,8 @@
 # Ergodic
 
-Random integer and string generator. 
+Random integer and string generator
 
-Standard and secure options avaliable.
+Standard and secure options avaliable
 
 Icon URL: https://flaticons.net/customize.php?dir=Data&icon=Sort-Ascending.png
 
