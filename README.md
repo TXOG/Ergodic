@@ -9,9 +9,18 @@ The better way to generate random strings/integers, without reproducability.
 
 Uses MIT license
 
-Currently in beta - V1.1 will come without antivirus issues
+Currently in beta
 
 Old icon: https://github.com/TXOG/Ergodic/blob/main/Sort-Ascending-256.ico
+
+
+##Antivirus
+
+https://www.virustotal.com/gui/home/upload
+
+VirusTotal check: 10/66 Security Vendors flagged v1.0 as malicious
+
+Please create and issue or email me at thomaskerby2004@gmail.com if you have an issue due to an antivirus - I will do my best to respond and fix the issue
 
 
 ## Credits
