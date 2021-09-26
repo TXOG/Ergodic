@@ -30,5 +30,5 @@ Please create and issue or email me at thomaskerby2004@gmail.com if you have an 
 
 Secure code written by https://github.com/t3dium (t3dium - Faraz Ahary)
 
-Collaberators - Thomas Kerby and Faraz Ahary
+Collaborators: Thomas Kerby and Faraz Ahary
 
