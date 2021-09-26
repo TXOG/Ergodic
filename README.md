@@ -8,7 +8,7 @@ The better way to generate random strings/integers, without reproducability.
 ## Misc
 
 
-Find source code in main folder
+Find source code in SourceCode folder
 
 Uses MIT license
 
