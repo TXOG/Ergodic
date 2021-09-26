@@ -7,6 +7,9 @@ The better way to generate random strings/integers, without reproducability.
 
 ## Misc
 
+
+Find source code in main folder
+
 Uses MIT license
 
 Currently in beta
