@@ -27,6 +27,8 @@ VirusTotal check: 10/66 Security Vendors flagged v1.1 as malicious
 
 VirusTotal check: 9/64 Security Vendors flagged v2.0 as malicious
 
+VirusTotal check: 10/67 Security Vendors flagged v2.0.5 as malicious
+
 Please create and issue or email me at thomaskerby2004@gmail.com if you have an issue due to an antivirus - I will do my best to respond and fix the issue
 
 
